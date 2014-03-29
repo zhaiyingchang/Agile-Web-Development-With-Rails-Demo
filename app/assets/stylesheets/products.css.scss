@@ -14,15 +14,15 @@
   }
 
   .list_image {
-    width:  60px;
-    height: 70px;
+    width:  90px;
+    height: 105px;
   }
 
   .list_description {
     width: 70%;
 
     dl {
-      margin: 0;
+      margin: 0, 10;
     }
 
     dt {
@@ -47,7 +47,7 @@
   }
 
   .list_line_odd {
-    background:   #f8b0f8;
+    background:   #ffcc19;
   }
 }
 /* END_HIGHLIGHT */
