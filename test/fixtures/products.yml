@@ -1,6 +1,5 @@
 # Read about fixtures at
 # http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
-
 one:
   title: MyString
   description: MyText
@@ -15,7 +14,7 @@ two:
 #START:ruby
 
 ruby: 
-  title:       ruby
+  title:       Programming Ruby 1.9
   description: 
     Ruby is the fastest growing and most exciting dynamic
     language out there.  If you need to get working programs
