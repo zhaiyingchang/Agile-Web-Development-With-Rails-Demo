@@ -70,7 +70,7 @@ class LineItemsController < ApplicationController
   def destroy
     @line_item.destroy
     respond_to do |format|
-      fformat.html { redirect_to store_url }
+      format.html { redirect_to store_url }
       format.json { head :no_content }
     end
   end
