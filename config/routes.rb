@@ -1,3 +1,11 @@
+#---
+# Excerpted from "Agile Web Development with Rails",
+# published by The Pragmatic Bookshelf.
+# Copyrights apply to this code. It may not be used to create training material, 
+# courses, books, articles, and the like. Contact us if you are in doubt.
+# We make no guarantees that this code is fit for any purpose. 
+# Visit http://www.pragmaticprogrammer.com/titles/rails4 for more book information.
+#---
 Haha::Application.routes.draw do
   get 'admin' => 'admin#index'
   controller :sessions do
@@ -74,6 +82,3 @@ Haha::Application.routes.draw do
   #     resources :products
   #   end
 end
-  #     # (app/controllers/admin/products_controller.rb)
-  #     resources :products
-  #   end
