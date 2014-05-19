@@ -13,7 +13,7 @@
 
 
  */
-/* line 17, /Users/admin/haha/app/assets/stylesheets/application.css.scss */
+/* line 19, /Users/admin/haha/app/assets/stylesheets/application.css.scss */
 #banner {
   background: #9c9;
   padding: 10px;
@@ -22,12 +22,12 @@
   color: #282;
   text-align: center;
 }
-/* line 25, /Users/admin/haha/app/assets/stylesheets/application.css.scss */
+/* line 27, /Users/admin/haha/app/assets/stylesheets/application.css.scss */
 #banner img {
   float: left;
 }
 
-/* line 30, /Users/admin/haha/app/assets/stylesheets/application.css.scss */
+/* line 32, /Users/admin/haha/app/assets/stylesheets/application.css.scss */
 #notice {
   color: #000 !important;
   border: 2px solid red;
@@ -37,17 +37,17 @@
   font: bold smaller sans-serif;
 }
 
-/* line 39, /Users/admin/haha/app/assets/stylesheets/application.css.scss */
+/* line 41, /Users/admin/haha/app/assets/stylesheets/application.css.scss */
 #columns {
   background: #141;
 }
-/* line 42, /Users/admin/haha/app/assets/stylesheets/application.css.scss */
+/* line 44, /Users/admin/haha/app/assets/stylesheets/application.css.scss */
 #columns #main {
   margin-left: 17em;
   padding: 1em;
   background: white;
 }
-/* line 49, /Users/admin/haha/app/assets/stylesheets/application.css.scss */
+/* line 51, /Users/admin/haha/app/assets/stylesheets/application.css.scss */
 #columns #side {
   float: left;
   padding: 1em 2em;
@@ -56,51 +56,51 @@
   /* START_HIGHLIGHT */
   /* END_HIGHLIGHT */
 }
-/* line 56, /Users/admin/haha/app/assets/stylesheets/application.css.scss */
+/* line 58, /Users/admin/haha/app/assets/stylesheets/application.css.scss */
 #columns #side form, #columns #side div {
   display: inline;
 }
-/* line 60, /Users/admin/haha/app/assets/stylesheets/application.css.scss */
+/* line 62, /Users/admin/haha/app/assets/stylesheets/application.css.scss */
 #columns #side input {
   font-size: small;
 }
-/* line 64, /Users/admin/haha/app/assets/stylesheets/application.css.scss */
+/* line 66, /Users/admin/haha/app/assets/stylesheets/application.css.scss */
 #columns #side #cart {
   font-size: smaller;
   color: white;
 }
-/* line 68, /Users/admin/haha/app/assets/stylesheets/application.css.scss */
+/* line 70, /Users/admin/haha/app/assets/stylesheets/application.css.scss */
 #columns #side #cart table {
   border-top: 1px dotted #595;
   border-bottom: 1px dotted #595;
   margin-bottom: 10px;
 }
-/* line 76, /Users/admin/haha/app/assets/stylesheets/application.css.scss */
+/* line 78, /Users/admin/haha/app/assets/stylesheets/application.css.scss */
 #columns #side ul {
   padding: 0;
 }
-/* line 79, /Users/admin/haha/app/assets/stylesheets/application.css.scss */
+/* line 81, /Users/admin/haha/app/assets/stylesheets/application.css.scss */
 #columns #side ul li {
   list-style: none;
 }
-/* line 82, /Users/admin/haha/app/assets/stylesheets/application.css.scss */
+/* line 84, /Users/admin/haha/app/assets/stylesheets/application.css.scss */
 #columns #side ul li a {
   color: #bfb;
   font-size: small;
 }
 
-/* line 94, /Users/admin/haha/app/assets/stylesheets/application.css.scss */
+/* line 96, /Users/admin/haha/app/assets/stylesheets/application.css.scss */
 .depot_form fieldset {
   background: #efe;
 }
-/* line 97, /Users/admin/haha/app/assets/stylesheets/application.css.scss */
+/* line 99, /Users/admin/haha/app/assets/stylesheets/application.css.scss */
 .depot_form fieldset legend {
   color: #dfd;
   background: #141;
   font-family: sans-serif;
   padding: 0.2em 1em;
 }
-/* line 106, /Users/admin/haha/app/assets/stylesheets/application.css.scss */
+/* line 108, /Users/admin/haha/app/assets/stylesheets/application.css.scss */
 .depot_form form label {
   width: 5em;
   float: left;
@@ -109,21 +109,21 @@
   margin-right: 0.1em;
   display: block;
 }
-/* line 115, /Users/admin/haha/app/assets/stylesheets/application.css.scss */
+/* line 117, /Users/admin/haha/app/assets/stylesheets/application.css.scss */
 .depot_form form select, .depot_form form textarea, .depot_form form input {
   margin-left: 0.5em;
 }
-/* line 119, /Users/admin/haha/app/assets/stylesheets/application.css.scss */
+/* line 121, /Users/admin/haha/app/assets/stylesheets/application.css.scss */
 .depot_form form .submit {
   margin-left: 4em;
 }
-/* line 123, /Users/admin/haha/app/assets/stylesheets/application.css.scss */
+/* line 125, /Users/admin/haha/app/assets/stylesheets/application.css.scss */
 .depot_form form br {
   display: none;
 }
 
 /* START:i18n */
-/* line 131, /Users/admin/haha/app/assets/stylesheets/application.css.scss */
+/* line 133, /Users/admin/haha/app/assets/stylesheets/application.css.scss */
 .locale {
   float: right;
   margin: -0.25em 0.1em;
@@ -131,15 +131,15 @@
 
 /* END:i18n */
 /* START_HIGHLIGHT */
-/* line 7, /Users/admin/haha/app/assets/stylesheets/carts.css.scss */
+/* line 8, /Users/admin/haha/app/assets/stylesheets/carts.css.scss */
 .carts, #side #cart {
   /* END_HIGHLIGHT */
 }
-/* line 9, /Users/admin/haha/app/assets/stylesheets/carts.css.scss */
+/* line 10, /Users/admin/haha/app/assets/stylesheets/carts.css.scss */
 .carts .item_price, .carts .total_line, #side #cart .item_price, #side #cart .total_line {
   text-align: right;
 }
-/* line 13, /Users/admin/haha/app/assets/stylesheets/carts.css.scss */
+/* line 14, /Users/admin/haha/app/assets/stylesheets/carts.css.scss */
 .carts .total_line .total_cell, #side #cart .total_line .total_cell {
   font-weight: bold;
   border-top: 1px solid #595;
@@ -308,17 +308,19 @@ div.field, div.actions {
   margin-bottom: 2px;
   color: #227;
 }
-/* line 39, /Users/admin/haha/app/assets/stylesheets/store.css.scss */
+/* line 40, /Users/admin/haha/app/assets/stylesheets/store.css.scss */
 .store .entry p, .store .entry div.price_line {
   margin-left: 100px;
   margin-top: 0.5em;
   margin-bottom: 0.8em;
+  /* START_HIGHLIGHT */
+  /* END_HIGHLIGHT */
 }
-/* line 44, /Users/admin/haha/app/assets/stylesheets/store.css.scss */
+/* line 46, /Users/admin/haha/app/assets/stylesheets/store.css.scss */
 .store .entry p form, .store .entry p div, .store .entry div.price_line form, .store .entry div.price_line div {
   display: inline;
 }
-/* line 49, /Users/admin/haha/app/assets/stylesheets/store.css.scss */
+/* line 53, /Users/admin/haha/app/assets/stylesheets/store.css.scss */
 .store .entry .price {
   color: #44a;
   font-weight: bold;
